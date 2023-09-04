@@ -1,0 +1,14 @@
+,Scalse,,Position,Position,‰œs‚«0.1f‚ªˆê”Ôã
+,‚˜,‚™,‚˜,‚™,‚š
+TimeTexture,80.0f,80.0f,600.0f,340.0f,0.0f
+Myitem1Texture,180.0f,180.0f,-530,-280.0f,0.0f
+XSpriteTexture,80.0f,80.0f,-520,-190,0.0f
+YSpriteTexture,80.0f,80.0f,550.0f,90.0f,0.0f
+MygageTexture,240.0f,240.0f,550.0f,-220,0.0f
+GageSpriteTexture,40.0f,40.0f,550.0f,-320,0.1f
+GageWhiteTexture,40.0f,130.0f,550.0f,-274,0.2f
+TickerSpriteTexture,500.0f,700.0f,0.0f,0.0f,0.0f
+TelopTexture,500.0f,700.0f,0.0f,0.0f,0.0f
+Telop2Texture,500.0f,700.0f,0.0f,0.0f,0.0f
+Telop3Texture,500.0f,700.0f,0.0f,0.0f,0.0f
+Telop4Texture,500.0f,700.0f,0.0f,0.0f,0.0f
