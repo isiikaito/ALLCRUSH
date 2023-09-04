@@ -8,7 +8,7 @@
 
 namespace basecross {
 	constexpr float HELFSIZE = 0.5f;		//!ポリゴンサイズ
-	constexpr float STARTSCALEZ = 1.0f;	//!z方向の大きさ
+	constexpr float STARTSCALEZ = 1.0f;		//!z方向の大きさ
 
 	Mygage::Mygage(const shared_ptr<Stage>& StagePtr,
 		const wstring& TextureKey, bool Trace,
